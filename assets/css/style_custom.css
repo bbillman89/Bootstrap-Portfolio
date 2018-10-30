@@ -22,7 +22,6 @@ body {
     background-color: #4aaaa5;
 }
 
-.navbar-brand:hover {
-    background: #1e4644;
-    transition: 1.5s;
+.figure-caption {
+    background-color: #4aaaa5;
 }
